@@ -23,13 +23,14 @@ jobs:
           docker.io
           registry-1.docker.io
           registry.hub.docker.com
+          mirror.gcr.io
           mirror.baidubce.com
           hub-mirror.c.163.com
-          docker.mirrors.ustc.edu.cn
-          mirror.gcr.io
-          dockerproxy.com
           docker.m.daocloud.io
+          docker.mirrors.ustc.edu.cn
+          docker.mirrors.sjtug.sjtu.edu.cn
           docker.nju.edu.cn
+          dockerproxy.com
           "
           image="library/nginx:1.24.0-alpine"
 
